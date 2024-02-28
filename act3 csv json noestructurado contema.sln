@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "act3 csv json noestructurado contema", "act3 csv json noestructurado contema\act3 csv json noestructurado contema.csproj", "{B03BA49F-2A07-4111-A7E6-FAF32C13B7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03BA49F-2A07-4111-A7E6-FAF32C13B7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03BA49F-2A07-4111-A7E6-FAF32C13B7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03BA49F-2A07-4111-A7E6-FAF32C13B7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03BA49F-2A07-4111-A7E6-FAF32C13B7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A09C0DA-9921-433E-9BA4-09E9CFE9B83C}
+	EndGlobalSection
+EndGlobal
